@@ -29,7 +29,7 @@
 
 #### 발표 세션
 
-- [변규현](https://www.meetup.com/ko-KR/awskrug/members/226746503/) (당근마켓) - [RDS PostgreSQL에서 Aurora PostgreSQL로 마이그레이션 후기]추후 올릴 예정!
+- [변규현](https://www.meetup.com/ko-KR/awskrug/members/226746503/) (당근마켓) - [RDS PostgreSQL에서 Aurora PostgreSQL로 마이그레이션 후기](https://www.slideshare.net/KyuhyunByun1/rds-aurora-postgresql)
 [유튜브 영상](https://www.youtube.com/watch?v=IblX2wHIGzA#t=21m35)
 - [권정빈](https://www.meetup.com/ko-KR/awskrug/members/193773140/profile/) (데이터씨) - [AWS re:Invent 경험기](resources/20190924/AWS_re-Invent_경험기_권정빈.pdf)
 [유튜브 영상](https://www.youtube.com/watch?v=IblX2wHIGzA#t=1h14m40)
