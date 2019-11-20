@@ -36,6 +36,14 @@
 - [최종원](https://www.meetup.com/ko-KR/awskrug/members/251549990/profile/) (원티드랩) - [Aurora MySQL을 위한 조그마한 팁](resources/20190924/aws_krug_database_20190924.pdf)
 [유튜브 영상](https://www.youtube.com/watch?v=IblX2wHIGzA#t=1h45m02)
 
+### 03번째 모임 (2019년 11월 19일 화요일 오후 7시 30분)
+
+- 장소: 서울특별시 강남구 테헤란로4길 14, 14층 당근마켓
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/266012729/)]
+
+#### 발표 세션
+
+- [김대익](https://clayful.io/) (클레이풀) - [300+개의 API를 가진 쇼핑몰 서비스 개발 MongoDB 사용기](resources/20191119/AWSKRUG_Database_Clayful_Session.pdf)
 
 ---
 
